@@ -34,7 +34,7 @@
     "@types/react-router": "^4.4.3",
     "@types/react-router-dom": "^4.3.1",
     "@types/stats.js": "^0.17.0",
-    "acorn": "^6.0.5",
+    "acorn": "^6.4.1",
     "ajv": "^6.6.2",
     "babel-polyfill": "^6.26.0",
     "babylonjs": "^4.0.3",
