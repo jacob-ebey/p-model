@@ -35,7 +35,7 @@
     "@types/react-router-dom": "^4.3.1",
     "@types/stats.js": "^0.17.0",
     "acorn": "^6.0.5",
-    "ajv": "^6.6.2",
+    "ajv": "^6.12.3",
     "babel-polyfill": "^6.26.0",
     "babylonjs": "^4.0.3",
     "copy-pkg-json-webpack-plugin": "0.0.38",
