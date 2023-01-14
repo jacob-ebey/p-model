@@ -76,7 +76,7 @@
     "tslint-microsoft-contrib": "^5.2.1",
     "typescript": "^3.2.2",
     "webpack": "^4.28.1",
-    "webpack-cli": "^3.2.1"
+    "webpack-cli": "^3.3.12"
   },
   "repository": {
     "type": "git",
